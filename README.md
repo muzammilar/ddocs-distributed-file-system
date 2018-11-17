@@ -1,3 +1,3 @@
 # DDocs-Distributed File System
 
-Language: C
+* Allows various consistency gurantees. 
