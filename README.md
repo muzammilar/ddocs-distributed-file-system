@@ -1,3 +1,3 @@
-# DDocs-Distributed File System
+# DDocs - Distributed File System
 
 * Allows various consistency gurantees. 
